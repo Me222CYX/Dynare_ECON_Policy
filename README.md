@@ -1,1 +1,3 @@
-# Dynare_ECON_Policy
+# ECON-403 report
+
+Policy analysis using Dynare
